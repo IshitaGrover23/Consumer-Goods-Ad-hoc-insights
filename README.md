@@ -2,6 +2,7 @@
 This project is part of the Codebasics Monthly Resume Challenge #4, where I analyzed business data using SQL and present meaningful insights in a structured and engaging format.
 
 📌 [Challenge Link] - (https://codebasics.io/challenge/codebasics-resume-project-challenge)
+
 🔗 LinkedIn Post -
 
 🏢 Company Overview: AtliQ Hardware
@@ -19,6 +20,7 @@ AtliQ Hardware (an imaginary company) is a leading manufacturer of computer hard
   * Peripherals & Accessories (Keyboards, Mice, Monitors, Headsets)
 
 📝 Problem Statement
+
 In this challenge, I stepped into the role of a junior data analyst for Atliq Hardware, a company facing challenges in data-driven decision-making due to a lack of actionable insights.
 
 To overcome this, they are expanding their Data Analytics team and designed this challenge to evaluate candidates' SQL proficiency and business storytelling skills.
