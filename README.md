@@ -1,7 +1,7 @@
 📊 Provide Insights for Management in Consumer Goods Domain
 This project is part of the Codebasics Monthly Resume Challenge #4, where I analyzed business data using SQL and present meaningful insights in a structured and engaging format.
 
-📌 [Challenge Link] - (https://codebasics.io/challenge/codebasics-resume-project-challenge)
+📌 [Challenge Link] - https://codebasics.io/challenge/codebasics-resume-project-challenge/7
 
 🔗 LinkedIn Post -
 
