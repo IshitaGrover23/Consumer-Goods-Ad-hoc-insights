@@ -38,21 +38,29 @@ To overcome this, they are expanding their Data Analytics team and designed this
 Here's how I tackled this challenge step by step:
 
 📄 Understanding Business Needs – I reviewed the 10 ad-hoc business requests that required insights.
+
 🔍 Running SQL Queries – I used SQL to fetch relevant data from multiple tables.
+
 📊 Creating a Management Dashboard – I transformed raw data into clear, actionable insights using PowerBI for executives.
+
 🎥 Presenting Findings Creatively – I designed an engaging presentation, incorporating charts, visuals, and storytelling using Canva for impact.
 
 📂 Dataset Details
+
 Before diving into the analysis, it's essential to understand the structure of the data. Here's a breakdown:
 
 🔹 Dimension Tables
+
 Dimension tables contain descriptive/static data that help categorize and define the facts.
 
 dim_date (NEW! 🗓️): I created this additional table to facilitate time-based analysis efficiently.
 
 📅 date: Covers a range of fiscal years from 2020 to 2021.
+
 📊 fiscal_year: Since the company's fiscal year starts in September, the data follows the fiscal years 2020 & 2021.
+
 📆 quarter: Represents the quarter corresponding to the fiscal year.
+
 🏛️ fy_month_num: Maps the fiscal month order (e.g., September = 1, October = 2, etc.).
 
 dim_customer: Contains details about customers and their market presence.
