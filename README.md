@@ -26,11 +26,13 @@ In this challenge, I stepped into the role of a junior data analyst for Atliq Ha
 To overcome this, they are expanding their Data Analytics team and designed this challenge to evaluate candidates' SQL proficiency and business storytelling skills.
 
 🎯 My Role in This Challenge:
+
   🔍 Analyze sales, pricing, and customer data.
   📊 Extract meaningful insights to support strategic decisions.
   🎥 Present findings in a compelling way for top-level management.
 
 🎯 My Approach
+
 Here's how I tackled this challenge step by step:
 
 📄 Understanding Business Needs – I reviewed the 10 ad-hoc business requests that required insights.
