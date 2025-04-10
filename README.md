@@ -28,7 +28,9 @@ To overcome this, they are expanding their Data Analytics team and designed this
 🎯 My Role in This Challenge:
 
   🔍 Analyze sales, pricing, and customer data.
+  
   📊 Extract meaningful insights to support strategic decisions.
+  
   🎥 Present findings in a compelling way for top-level management.
 
 🎯 My Approach
