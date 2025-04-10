@@ -84,17 +84,21 @@ fact_sales_monthly: Tracks monthly sales of each product.
 fact_gross_price: Holds pricing data for each product.
 
 📆 fiscal_year: The fiscal year for which the gross price is recorded.
+
 💰 gross_price: The initial selling price of a product before any deductions.
 
 fact_manufacturing_cost: Tracks production costs per product.
 
 📆 cost_year: Fiscal year in which the product was manufactured.
+
 🏭 manufacturing_cost: The total production cost incurred, including raw materials, labor, and overhead expenses.
 
 fact_pre_invoice_deductions: Contains discounts applied before invoicing.
 
 🛍️ customer_code: The customer receiving the discount.
+
 📅 fiscal_year: The fiscal year for the discount.
+
 🔻 pre_invoice_discount_pct: Percentage discount applied before invoice generation.
 
 🔍 SQL Concepts Learned
