@@ -3,7 +3,7 @@ This project is part of the Codebasics Monthly Resume Challenge #4, where I anal
 
 📌 [Challenge Link] - https://codebasics.io/challenge/codebasics-resume-project-challenge/7
 
-🔗 LinkedIn Post -
+🔗 LinkedIn Post - https://www.linkedin.com/posts/ishita-grover_sql-project-activity-7316359087535837186-CgsR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3YFpYB88T8rxo0vIk1fpLhMjdkmjCQlro
 
 🏢 Company Overview: AtliQ Hardware
 AtliQ Hardware (an imaginary company) is a leading manufacturer of computer hardware and accessories, operating across four major regions:
